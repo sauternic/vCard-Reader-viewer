@@ -22,7 +22,7 @@
 - Edge
 
 	 
-# [Show](https://sauternic.github.io/vCard-Reader/)
+# [Show](https://sauternic.github.io/vCard-Reader-viewer/)
 
 
 ----
