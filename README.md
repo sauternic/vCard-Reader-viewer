@@ -13,13 +13,13 @@
 
 ![Bild](https://github.com/sauternic/Gif_Bilder/blob/master/vCard-Reader.png)
 
-### Tested on new:
+### Tested on new
     
 - Firefox
-     - Chrome
-     - Opera
-     - IE
-     - Edge
+- Chrome
+- Opera
+- IE
+- Edge
 
 	 
 # [Show]()
