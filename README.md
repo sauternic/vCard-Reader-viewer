@@ -57,7 +57,7 @@
 
 ### Getestet auf neuen:
     
-	- Firefox
+    - Firefox
     - Chrom
     - Opera
     - IE
@@ -76,7 +76,3 @@
 3. Copy paste ins Textfeld    
 
 - Für Gebrauch einfach Copy Paste aus Textfeld rechts
-
-	Tags:
-	
-	vcard reader viewer csv vcf parser readable javascript html
