@@ -11,7 +11,7 @@
 
 - Runs on almost every device!
 
-![Bild]()
+![Bild](https://github.com/sauternic/Gif_Bilder/blob/master/RegExp.png)
 
 ### Tested on new:
     
@@ -53,7 +53,7 @@
 
 - Getestet mit einem kontakte.vcf file von meinem Android-Samsung Smartphone.   
 
-- Läuft fast auf jedem Gerät!   
+- LÃ¤uft fast auf jedem GerÃ¤t!   
 
 ### Getestet auf neuen:
     
@@ -69,13 +69,13 @@
 
 ## Anleitung:   
 
-- Drei Möglichkeiten ein File zu Laden:   
+- Drei MÃ¶glichkeiten ein File zu Laden:   
 
 1. Drag and Drop vom PC   
-2. Datei wählen mit Button   
+2. Datei wÃ¤hlen mit Button   
 3. Copy paste ins Textfeld    
 
-- Für Gebrauch einfach Copy Paste aus Textfeld rechts
+- FÃ¼r Gebrauch einfach Copy Paste aus Textfeld rechts
 
 	Tags:
 	
